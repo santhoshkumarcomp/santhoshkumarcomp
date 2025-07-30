@@ -16,16 +16,55 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />  
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-🚀 Auction’s Platform
-Tech Stack: MongoDB, Express.js, React.js, Node.js (MERN)
-Description: An online auction website where sellers can list items within a fixed time limit and choose the auction method for each item.
-Features:
+<section id="projects">
+  <h2>Projects</h2>
 
-User authentication & authorization using JWT
+  <div class="project">
+    <h3>🚀 Auction’s Platform</h3>
+    <p><strong>Tech Stack:</strong> MongoDB, Express.js, React.js, Node.js (MERN)</p>
+    <p><strong>Description:</strong> An online auction website where sellers can list items within a fixed time limit and choose the auction method for each item.</p>
+    <ul>
+      <li>User authentication & authorization using JWT</li>
+      <li>Real-time bidding system with live UI updates</li>
+      <li>Product listing and management for sellers</li>
+      <li>Response time improved by <strong>10%</strong></li>
+    </ul>
+    <p>
+      <a href="https://github.com/yourname/auction-frontend" target="_blank">Frontend 🔗</a> |
+      <a href="https://github.com/yourname/auction-backend" target="_blank">Backend 🔗</a> |
+      <a href="https://auction-platform.live" target="_blank">Live 🔗</a>
+    </p>
+  </div>
 
-Real-time bidding system with live UI updates
+  <div class="project">
+    <h3>🚌 Bus Ticketing System</h3>
+    <p><strong>Tech Stack:</strong> MongoDB, Express.js, React.js, Node.js (MERN)</p>
+    <p><strong>Description:</strong> A bus ticket booking platform where users can search, book, and manage tickets online with real-time seat selection.</p>
+    <ul>
+      <li>Interactive seat selection with availability visualization</li>
+      <li>Booking confirmation and ticket generation</li>
+      <li>Load time improved by <strong>20%</strong></li>
+    </ul>
+    <p>
+      <a href="https://github.com/yourname/bus-ticketing-frontend" target="_blank">Frontend 🔗</a> |
+      <a href="https://github.com/yourname/bus-ticketing-backend" target="_blank">Backend 🔗</a> |
+      <a href="https://bus-ticketing.live" target="_blank">Live 🔗</a>
+    </p>
+  </div>
 
-Product listing and management for sellers
-
-Response time improved by 10%
-Links:
+  <div class="project">
+    <h3>🐦 xTwitter Platform</h3>
+    <p><strong>Tech Stack:</strong> MongoDB, Express.js, React.js, Node.js (MERN)</p>
+    <p><strong>Description:</strong> A social media platform inspired by Twitter allowing users to post tweets, follow others, and engage through real-time interactions.</p>
+    <ul>
+      <li>Tweet creation, editing, and deletion with character limit enforcement</li>
+      <li>Profile pages with tweets, followers, and following lists</li>
+      <li>Real-time like and comment updates</li>
+    </ul>
+    <p>
+      <a href="https://github.com/yourname/xtwitter-frontend" target="_blank">Frontend 🔗</a> |
+      <a href="https://github.com/yourname/xtwitter-backend" target="_blank">Backend 🔗</a> |
+      <a href="https://xtwitter-platform.live" target="_blank">Live 🔗</a>
+    </p>
+  </div>
+</section>
