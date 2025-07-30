@@ -16,3 +16,16 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />  
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+🚀 Auction’s Platform
+Tech Stack: MongoDB, Express.js, React.js, Node.js (MERN)
+Description: An online auction website where sellers can list items within a fixed time limit and choose the auction method for each item.
+Features:
+
+User authentication & authorization using JWT
+
+Real-time bidding system with live UI updates
+
+Product listing and management for sellers
+
+Response time improved by 10%
+Links:
