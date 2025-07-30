@@ -1,6 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Santhosh Kumar , Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/10597/10597864.png" width="13"/> <b>Vellore,TamilNadu</b>. </p>
+<p>Welcome to my page! </br> I'm Santhosh Kumar , Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/10597/10597864.png" width="13"/> <b>Vellore,TamilNadu</br>. </p>
+  <p>I specialize in React.js for frontend development, Node.js and Express.js for backend services, and MongoDB for database management. I'm also experienced with modern development tools and practices including Git, AWS, and agile methodologies.</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" />
@@ -16,6 +17,8 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />  
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+</p>
+
 <section id="projects">
   <h2>Projects</h2>
 
