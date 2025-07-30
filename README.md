@@ -30,9 +30,9 @@
       <li>Response time improved by <strong>10%</strong></li>
     </ul>
     <p>
-      <a href="https://github.com/yourname/auction-frontend" target="_blank">Frontend 🔗</a> |
-      <a href="https://github.com/yourname/auction-backend" target="_blank">Backend 🔗</a> |
-      <a href="https://auction-platform.live" target="_blank">Live 🔗</a>
+      <a href="https://github.com/santhoshkumarcomp/frontEnd-auctionSite" target="_blank">Frontend 🔗</a> |
+      <a href="https://github.com/santhoshkumarcomp/BE_CAPSTONE" target="_blank">Backend 🔗</a> |
+      <a href="https://subtle-kleicha-aa8606.netlify.app/" target="_blank">Live 🔗</a>
     </p>
   </div>
 
@@ -46,9 +46,9 @@
       <li>Load time improved by <strong>20%</strong></li>
     </ul>
     <p>
-      <a href="https://github.com/yourname/bus-ticketing-frontend" target="_blank">Frontend 🔗</a> |
-      <a href="https://github.com/yourname/bus-ticketing-backend" target="_blank">Backend 🔗</a> |
-      <a href="https://bus-ticketing.live" target="_blank">Live 🔗</a>
+      <a href="https://github.com/santhoshkumarcomp/Bus-Ticketing-frontend" target="_blank">Frontend 🔗</a> |
+      <a href="https://github.com/santhoshkumarcomp/bus-ticketing-backend" target="_blank">Backend 🔗</a> |
+      <a href="https://bus-ticketing-frontend.vercel.app/" target="_blank">Live 🔗</a>
     </p>
   </div>
 
@@ -62,9 +62,9 @@
       <li>Real-time like and comment updates</li>
     </ul>
     <p>
-      <a href="https://github.com/yourname/xtwitter-frontend" target="_blank">Frontend 🔗</a> |
-      <a href="https://github.com/yourname/xtwitter-backend" target="_blank">Backend 🔗</a> |
-      <a href="https://xtwitter-platform.live" target="_blank">Live 🔗</a>
+      <a href="https://github.com/santhoshkumarcomp/project" target="_blank">Frontend 🔗</a> |
+      <a href="https://github.com/santhoshkumarcomp/project" target="_blank">Backend 🔗</a> |
+      <a href="https://lively-mermaid-39ac84.netlify.app/login" target="_blank">Live 🔗</a>
     </p>
   </div>
 </section>
